@@ -3,103 +3,103 @@
 
 | Japanese | Kana | Romaji | English |
 |---|---|---|---|
-| •Ï” | ‚Ö‚ñ‚·‚¤ | hens? | variable |
-| ’è” | ‚Ä‚¢‚·‚¤ | teis? | constant |
-| ŠÖ” | ‚©‚ñ‚·‚¤ | kans? | function |
-| ˆø” | ‚Ğ‚«‚·‚¤ | hikis? | argument |
-| –ß‚è’l | ‚à‚Ç‚è‚¿ | modorichi | return value |
-| Œ^ | ‚©‚½ | kata | type |
-| ”z—ñ | ‚Í‚¢‚ê‚Â | hairetsu | array |
-| ‘½ŸŒ³”z—ñ | ‚½‚¶‚°‚ñ‚Í‚¢‚ê‚Â | tajigen hairetsu | multidimensional array |
-| \‘¢‘Ì | ‚±‚¤‚¼‚¤‚½‚¢ | k?z?tai | structure (struct) |
-| ‹¤—p‘Ì | ‚«‚å‚¤‚æ‚¤‚½‚¢ | ky?y?tai | union |
-| —ñ‹“ | ‚ê‚Á‚«‚å | rekkyo | enumeration |
-| ğŒ | ‚¶‚å‚¤‚¯‚ñ | j?ken | condition |
-| ^‹U’l | ‚µ‚ñ‚¬‚¿ | shingichi | boolean value |
-| ŒJ‚è•Ô‚µ | ‚­‚è‚©‚¦‚µ | kurikaeshi | loop / repetition |
-| –³ŒÀƒ‹[ƒv | ‚Ş‚°‚ñ‚é[‚Õ | mugen r?pu | infinite loop |
-| Ä‹A | ‚³‚¢‚« | saiki | recursion |
-| Ä‹AŒÄ‚Ño‚µ | ‚³‚¢‚«‚æ‚Ñ‚¾‚µ | saiki yobidashi | recursive call |
-| •ªŠò | ‚Ô‚ñ‚« | bunki | branch |
-| ğŒ•ªŠò | ‚¶‚å‚¤‚¯‚ñ‚Ô‚ñ‚« | j?ken bunki | conditional branching |
-| §Œä | ‚¹‚¢‚¬‚å | seigyo | control |
-| §Œä\‘¢ | ‚¹‚¢‚¬‚å‚±‚¤‚¼‚¤ | seigyo k?z? | control structure |
-| ‰Šú‰» | ‚µ‚å‚«‚© | shokika | initialization |
-| éŒ¾ | ‚¹‚ñ‚°‚ñ | sengen | declaration |
-| ’è‹` | ‚Ä‚¢‚¬ | teigi | definition |
-| Às | ‚¶‚Á‚±‚¤ | jikk? | execution |
-| Às | ‚¶‚Á‚±‚¤‚¶ | jikk?ji | runtime |
-| ÀsŠÂ‹« | ‚¶‚Á‚±‚¤‚©‚ñ‚«‚å‚¤ | jikk? kanky? | runtime environment |
-| ˆ— | ‚µ‚å‚è | shori | processing |
-| •À—ñˆ— | ‚Ö‚¢‚ê‚Â‚µ‚å‚è | heiretsu shori | parallel processing |
-| •Àsˆ— | ‚Ö‚¢‚±‚¤‚µ‚å‚è | heik? shori | concurrent processing |
-| ”r‘¼§Œä | ‚Í‚¢‚½‚¹‚¢‚¬‚å | haita seigyo | mutual exclusion |
-| “¯Šú | ‚Ç‚¤‚« | d?ki | synchronization |
-| ”ñ“¯Šú | ‚Ğ‚Ç‚¤‚« | hid?ki | asynchronous |
-| •W€“ü—Í | ‚Ğ‚å‚¤‚¶‚ã‚ñ‚É‚ã‚¤‚è‚å‚­ | hy?jun ny?ryoku | standard input |
-| •W€o—Í | ‚Ğ‚å‚¤‚¶‚ã‚ñ‚µ‚ã‚Â‚è‚å‚­ | hy?jun shutsuryoku | standard output |
-| •W€ƒGƒ‰[o—Í | ‚Ğ‚å‚¤‚¶‚ã‚ñ‚¦‚ç[‚µ‚ã‚Â‚è‚å‚­ | hy?jun er? shutsuryoku | standard error output |
-| “Ç‚İ‚İ | ‚æ‚İ‚±‚İ | yomikomi | loading (reading) |
-| ‘‚«‚İ | ‚©‚«‚±‚İ | kakikomi | writing |
-| “ü—Í | ‚É‚ã‚¤‚è‚å‚­ | ny?ryoku | input |
-| o—Í | ‚µ‚ã‚Â‚è‚å‚­ | shutsuryoku | output |
-| ‘ã“ü | ‚¾‚¢‚É‚ã‚¤ | dainy? | assignment |
-| ”äŠr | ‚Ğ‚©‚­ | hikaku | comparison |
-| •]‰¿ | ‚Ğ‚å‚¤‚© | hy?ka | evaluation |
-| ^ | ‚µ‚ñ | shin | true |
-| ‹U | ‚¬ | gi | false |
-| ˜_—˜a | ‚ë‚ñ‚è‚í | ronriwa | logical OR |
-| ˜_—Ï | ‚ë‚ñ‚è‚¹‚« | ronriseki | logical AND |
-| ”Û’è | ‚Ğ‚Ä‚¢ | hitei | negation (NOT) |
-| —áŠO | ‚ê‚¢‚ª‚¢ | reigai | exception |
-| —áŠOˆ— | ‚ê‚¢‚ª‚¢‚µ‚å‚è | reigaishori | exception handling |
-| —áŠO”­¶ | ‚ê‚¢‚ª‚¢‚Í‚Á‚¹‚¢ | reigai hassei | exception occurrence |
-| ”ÍˆÍ | ‚Í‚ñ‚¢ | hanfi | range |
-| ”ÍˆÍŠO | ‚Í‚ñ‚¢‚ª‚¢ | hanfi gai | out of range |
-| ŒvZ—Ê | ‚¯‚¢‚³‚ñ‚è‚å‚¤ | keisanry? | computational complexity |
-| ŠÔŒvZ—Ê | ‚¶‚©‚ñ‚¯‚¢‚³‚ñ‚è‚å‚¤ | jikan keisanry? | time complexity |
-| ‹óŠÔŒvZ—Ê | ‚­‚¤‚©‚ñ‚¯‚¢‚³‚ñ‚è‚å‚¤ | k?kan keisanry? | space complexity |
-| Å“K‰» | ‚³‚¢‚Ä‚«‚© | saitekika | optimization |
-| ’Tõ | ‚½‚ñ‚³‚­ | tansaku | search |
-| ’Tõ–Ø | ‚½‚ñ‚³‚­‚« | tansaku ki | search tree |
-| [‚³—Dæ’Tõ | ‚Ó‚©‚³‚ä‚¤‚¹‚ñ‚½‚ñ‚³‚­ | fukasa y?sen tansaku | depth-first search |
-| •—Dæ’Tõ | ‚Í‚Î‚ä‚¤‚¹‚ñ‚½‚ñ‚³‚­ | haba y?sen tansaku | breadth-first search |
-| ®—ñ | ‚¹‚¢‚ê‚Â | seiretsu | sorting |
-| ¸‡ | ‚µ‚å‚¤‚¶‚ã‚ñ | sh?jun | ascending order |
-| ~‡ | ‚±‚¤‚¶‚ã‚ñ | k?jun | descending order |
-| “ñ•ª’Tõ | ‚É‚Ô‚ñ‚½‚ñ‚³‚­ | nibun tansaku | binary search |
-| –Ø\‘¢ | ‚«‚±‚¤‚¼‚¤ | kik?z? | tree structure |
-| ª | ‚Ë | ne | root (of a tree) |
-| ß | ‚¹‚Â | setsu | node |
-| —t | ‚Í | ha | leaf |
-| } | ‚¦‚¾ | eda | branch |
-| “ñ•ª–Ø | ‚É‚Ô‚ñ‚¬ | nibungi | binary tree |
-| •½t–Ø | ‚Ö‚¢‚±‚¤‚¬ | heik?gi | balanced tree |
-| ’¸“_ | ‚¿‚å‚¤‚Ä‚ñ | ch?ten | vertex (graph) |
-| •Ó | ‚Ö‚ñ | hen | edge (graph) |
-| d‚İ | ‚¨‚à‚İ | omomi | weight (graph) |
-| Œo˜H | ‚¯‚¢‚ë | keiro | path |
-| Å’ZŒo˜H | ‚³‚¢‚½‚ñ‚¯‚¢‚ë | saitan keiro | shortest path |
-| ‹L‰¯—Ìˆæ | ‚«‚¨‚­‚è‚å‚¤‚¢‚« | kioku ry?iki | memory space |
-| å‹L‰¯ | ‚µ‚ã‚«‚¨‚­ | shukioku | main memory |
-| •â•‹L‰¯ | ‚Ù‚¶‚å‚«‚¨‚­ | hojo kioku | secondary memory |
-| Ši”[ | ‚©‚­‚Ì‚¤ | kakun? | storage |
-| ‰ğ•ú | ‚©‚¢‚Ù‚¤ | kaih? | release (free memory) |
-| “®“IŠ„‚è“–‚Ä | ‚Ç‚¤‚Ä‚«‚í‚è‚ ‚Ä | d?teki wariate | dynamic allocation |
-| Ã“IŠ„‚è“–‚Ä | ‚¹‚¢‚Ä‚«‚í‚è‚ ‚Ä | seiteki wariate | static allocation |
-| ˆÙíI—¹ | ‚¢‚¶‚å‚¤‚µ‚ã‚¤‚è‚å‚¤ | ij? sh?ry? | abnormal termination |
-| ³íI—¹ | ‚¹‚¢‚¶‚å‚¤‚µ‚ã‚¤‚è‚å‚¤ | seij? sh?ry? | normal termination |
-| ’€Ÿˆ— | ‚¿‚­‚¶‚µ‚å‚è | chikuji shori | sequential processing |
-| •À—ñŒvZ | ‚Ö‚¢‚ê‚Â‚¯‚¢‚³‚ñ | heiretsu keisan | parallel computation |
-| è‘±‚« | ‚Ä‚Â‚Ã‚« | tetsuzuki | procedure |
-| è‘±‚«Œ^ | ‚Ä‚Â‚Ã‚«‚ª‚½ | tetsuzuki-gata | procedural (programming) |
-| è‘±‚«ŒÄ‚Ño‚µ | ‚Ä‚Â‚Ã‚«‚æ‚Ñ‚¾‚µ | tetsuzuki yobidashi | procedure call |
-| ‰‰Zq | ‚¦‚ñ‚´‚ñ‚µ | enzanshi | operator |
-| ‰ÁZ | ‚©‚³‚ñ | kasan | addition |
-| Œ¸Z | ‚°‚ñ‚´‚ñ | genzan | subtraction |
-| æZ | ‚¶‚å‚¤‚´‚ñ | j?zan | multiplication |
-| œZ | ‚¶‚å‚´‚ñ | jozan | division |
-| è—] | ‚¶‚å‚¤‚æ | j?yo | remainder (modulo) |
-| ‘ã”“I | ‚¾‚¢‚·‚¤‚Ä‚« | dais?teki | algebraic |
-| ˜_—® | ‚ë‚ñ‚è‚µ‚« | ronri shiki | logical expression |
-| ğŒ® | ‚¶‚å‚¤‚¯‚ñ‚µ‚« | j?ken shiki | conditional expression |
+| å¤‰æ•° | ã¸ã‚“ã™ã† | hensÅ« | variable |
+| å®šæ•° | ã¦ã„ã™ã† | teisÅ« | constant |
+| é–¢æ•° | ã‹ã‚“ã™ã† | kansÅ« | function |
+| å¼•æ•° | ã²ãã™ã† | hikisÅ« | argument |
+| æˆ»ã‚Šå€¤ | ã‚‚ã©ã‚Šã¡ | modorichi | return value |
+| å‹ | ã‹ãŸ | kata | type |
+| é…åˆ— | ã¯ã„ã‚Œã¤ | hairetsu | array |
+| å¤šæ¬¡å…ƒé…åˆ— | ãŸã˜ã’ã‚“ã¯ã„ã‚Œã¤ | tajigen hairetsu | multidimensional array |
+| æ§‹é€ ä½“ | ã“ã†ãã†ãŸã„ | kÅzÅtai | structure (struct) |
+| å…±ç”¨ä½“ | ãã‚‡ã†ã‚ˆã†ãŸã„ | kyÅyÅtai | union |
+| åˆ—æŒ™ | ã‚Œã£ãã‚‡ | rekkyo | enumeration |
+| æ¡ä»¶ | ã˜ã‚‡ã†ã‘ã‚“ | jÅken | condition |
+| çœŸå½å€¤ | ã—ã‚“ãã¡ | shingichi | boolean value |
+| ç¹°ã‚Šè¿”ã— | ãã‚Šã‹ãˆã— | kurikaeshi | loop / repetition |
+| ç„¡é™ãƒ«ãƒ¼ãƒ— | ã‚€ã’ã‚“ã‚‹ãƒ¼ã· | mugen rÅ«pu | infinite loop |
+| å†å¸° | ã•ã„ã | saiki | recursion |
+| å†å¸°å‘¼ã³å‡ºã— | ã•ã„ãã‚ˆã³ã ã— | saiki yobidashi | recursive call |
+| åˆ†å² | ã¶ã‚“ã | bunki | branch |
+| æ¡ä»¶åˆ†å² | ã˜ã‚‡ã†ã‘ã‚“ã¶ã‚“ã | jÅken bunki | conditional branching |
+| åˆ¶å¾¡ | ã›ã„ãã‚‡ | seigyo | control |
+| åˆ¶å¾¡æ§‹é€  | ã›ã„ãã‚‡ã“ã†ãã† | seigyo kÅzÅ | control structure |
+| åˆæœŸåŒ– | ã—ã‚‡ãã‹ | shokika | initialization |
+| å®£è¨€ | ã›ã‚“ã’ã‚“ | sengen | declaration |
+| å®šç¾© | ã¦ã„ã | teigi | definition |
+| å®Ÿè¡Œ | ã˜ã£ã“ã† | jikkÅ | execution |
+| å®Ÿè¡Œæ™‚ | ã˜ã£ã“ã†ã˜ | jikkÅji | runtime |
+| å®Ÿè¡Œç’°å¢ƒ | ã˜ã£ã“ã†ã‹ã‚“ãã‚‡ã† | jikkÅ kankyÅ | runtime environment |
+| å‡¦ç† | ã—ã‚‡ã‚Š | shori | processing |
+| ä¸¦åˆ—å‡¦ç† | ã¸ã„ã‚Œã¤ã—ã‚‡ã‚Š | heiretsu shori | parallel processing |
+| ä¸¦è¡Œå‡¦ç† | ã¸ã„ã“ã†ã—ã‚‡ã‚Š | heikÅ shori | concurrent processing |
+| æ’ä»–åˆ¶å¾¡ | ã¯ã„ãŸã›ã„ãã‚‡ | haita seigyo | mutual exclusion |
+| åŒæœŸ | ã©ã†ã | dÅki | synchronization |
+| éåŒæœŸ | ã²ã©ã†ã | hidÅki | asynchronous |
+| æ¨™æº–å…¥åŠ› | ã²ã‚‡ã†ã˜ã‚…ã‚“ã«ã‚…ã†ã‚Šã‚‡ã | hyÅjun nyÅ«ryoku | standard input |
+| æ¨™æº–å‡ºåŠ› | ã²ã‚‡ã†ã˜ã‚…ã‚“ã—ã‚…ã¤ã‚Šã‚‡ã | hyÅjun shutsuryoku | standard output |
+| æ¨™æº–ã‚¨ãƒ©ãƒ¼å‡ºåŠ› | ã²ã‚‡ã†ã˜ã‚…ã‚“ãˆã‚‰ãƒ¼ã—ã‚…ã¤ã‚Šã‚‡ã | hyÅjun erÄ shutsuryoku | standard error output |
+| èª­ã¿è¾¼ã¿ | ã‚ˆã¿ã“ã¿ | yomikomi | loading (reading) |
+| æ›¸ãè¾¼ã¿ | ã‹ãã“ã¿ | kakikomi | writing |
+| å…¥åŠ› | ã«ã‚…ã†ã‚Šã‚‡ã | nyÅ«ryoku | input |
+| å‡ºåŠ› | ã—ã‚…ã¤ã‚Šã‚‡ã | shutsuryoku | output |
+| ä»£å…¥ | ã ã„ã«ã‚…ã† | dainyÅ« | assignment |
+| æ¯”è¼ƒ | ã²ã‹ã | hikaku | comparison |
+| è©•ä¾¡ | ã²ã‚‡ã†ã‹ | hyÅka | evaluation |
+| çœŸ | ã—ã‚“ | shin | true |
+| å½ | ã | gi | false |
+| è«–ç†å’Œ | ã‚ã‚“ã‚Šã‚ | ronriwa | logical OR |
+| è«–ç†ç© | ã‚ã‚“ã‚Šã›ã | ronriseki | logical AND |
+| å¦å®š | ã²ã¦ã„ | hitei | negation (NOT) |
+| ä¾‹å¤– | ã‚Œã„ãŒã„ | reigai | exception |
+| ä¾‹å¤–å‡¦ç† | ã‚Œã„ãŒã„ã—ã‚‡ã‚Š | reigaishori | exception handling |
+| ä¾‹å¤–ç™ºç”Ÿ | ã‚Œã„ãŒã„ã¯ã£ã›ã„ | reigai hassei | exception occurrence |
+| ç¯„å›² | ã¯ã‚“ã„ | hanâ€™i | range |
+| ç¯„å›²å¤– | ã¯ã‚“ã„ãŒã„ | hanâ€™i gai | out of range |
+| è¨ˆç®—é‡ | ã‘ã„ã•ã‚“ã‚Šã‚‡ã† | keisanryÅ | computational complexity |
+| æ™‚é–“è¨ˆç®—é‡ | ã˜ã‹ã‚“ã‘ã„ã•ã‚“ã‚Šã‚‡ã† | jikan keisanryÅ | time complexity |
+| ç©ºé–“è¨ˆç®—é‡ | ãã†ã‹ã‚“ã‘ã„ã•ã‚“ã‚Šã‚‡ã† | kÅ«kan keisanryÅ | space complexity |
+| æœ€é©åŒ– | ã•ã„ã¦ãã‹ | saitekika | optimization |
+| æ¢ç´¢ | ãŸã‚“ã•ã | tansaku | search |
+| æ¢ç´¢æœ¨ | ãŸã‚“ã•ãã | tansaku ki | search tree |
+| æ·±ã•å„ªå…ˆæ¢ç´¢ | ãµã‹ã•ã‚†ã†ã›ã‚“ãŸã‚“ã•ã | fukasa yÅ«sen tansaku | depth-first search |
+| å¹…å„ªå…ˆæ¢ç´¢ | ã¯ã°ã‚†ã†ã›ã‚“ãŸã‚“ã•ã | haba yÅ«sen tansaku | breadth-first search |
+| æ•´åˆ— | ã›ã„ã‚Œã¤ | seiretsu | sorting |
+| æ˜‡é † | ã—ã‚‡ã†ã˜ã‚…ã‚“ | shÅjun | ascending order |
+| é™é † | ã“ã†ã˜ã‚…ã‚“ | kÅjun | descending order |
+| äºŒåˆ†æ¢ç´¢ | ã«ã¶ã‚“ãŸã‚“ã•ã | nibun tansaku | binary search |
+| æœ¨æ§‹é€  | ãã“ã†ãã† | kikÅzÅ | tree structure |
+| æ ¹ | ã­ | ne | root (of a tree) |
+| ç¯€ | ã›ã¤ | setsu | node |
+| è‘‰ | ã¯ | ha | leaf |
+| æ | ãˆã  | eda | branch |
+| äºŒåˆ†æœ¨ | ã«ã¶ã‚“ã | nibungi | binary tree |
+| å¹³è¡¡æœ¨ | ã¸ã„ã“ã†ã | heikÅgi | balanced tree |
+| é ‚ç‚¹ | ã¡ã‚‡ã†ã¦ã‚“ | chÅten | vertex (graph) |
+| è¾º | ã¸ã‚“ | hen | edge (graph) |
+| é‡ã¿ | ãŠã‚‚ã¿ | omomi | weight (graph) |
+| çµŒè·¯ | ã‘ã„ã‚ | keiro | path |
+| æœ€çŸ­çµŒè·¯ | ã•ã„ãŸã‚“ã‘ã„ã‚ | saitan keiro | shortest path |
+| è¨˜æ†¶é ˜åŸŸ | ããŠãã‚Šã‚‡ã†ã„ã | kioku ryÅiki | memory space |
+| ä¸»è¨˜æ†¶ | ã—ã‚…ããŠã | shukioku | main memory |
+| è£œåŠ©è¨˜æ†¶ | ã»ã˜ã‚‡ããŠã | hojo kioku | secondary memory |
+| æ ¼ç´ | ã‹ãã®ã† | kakunÅ | storage |
+| è§£æ”¾ | ã‹ã„ã»ã† | kaihÅ | release (free memory) |
+| å‹•çš„å‰²ã‚Šå½“ã¦ | ã©ã†ã¦ãã‚ã‚Šã‚ã¦ | dÅteki wariate | dynamic allocation |
+| é™çš„å‰²ã‚Šå½“ã¦ | ã›ã„ã¦ãã‚ã‚Šã‚ã¦ | seiteki wariate | static allocation |
+| ç•°å¸¸çµ‚äº† | ã„ã˜ã‚‡ã†ã—ã‚…ã†ã‚Šã‚‡ã† | ijÅ shÅ«ryÅ | abnormal termination |
+| æ­£å¸¸çµ‚äº† | ã›ã„ã˜ã‚‡ã†ã—ã‚…ã†ã‚Šã‚‡ã† | seijÅ shÅ«ryÅ | normal termination |
+| é€æ¬¡å‡¦ç† | ã¡ãã˜ã—ã‚‡ã‚Š | chikuji shori | sequential processing |
+| ä¸¦åˆ—è¨ˆç®— | ã¸ã„ã‚Œã¤ã‘ã„ã•ã‚“ | heiretsu keisan | parallel computation |
+| æ‰‹ç¶šã | ã¦ã¤ã¥ã | tetsuzuki | procedure |
+| æ‰‹ç¶šãå‹ | ã¦ã¤ã¥ããŒãŸ | tetsuzuki-gata | procedural (programming) |
+| æ‰‹ç¶šãå‘¼ã³å‡ºã— | ã¦ã¤ã¥ãã‚ˆã³ã ã— | tetsuzuki yobidashi | procedure call |
+| æ¼”ç®—å­ | ãˆã‚“ã–ã‚“ã— | enzanshi | operator |
+| åŠ ç®— | ã‹ã•ã‚“ | kasan | addition |
+| æ¸›ç®— | ã’ã‚“ã–ã‚“ | genzan | subtraction |
+| ä¹—ç®— | ã˜ã‚‡ã†ã–ã‚“ | jÅzan | multiplication |
+| é™¤ç®— | ã˜ã‚‡ã–ã‚“ | jozan | division |
+| å‰°ä½™ | ã˜ã‚‡ã†ã‚ˆ | jÅyo | remainder (modulo) |
+| ä»£æ•°çš„ | ã ã„ã™ã†ã¦ã | daisÅ«teki | algebraic |
+| è«–ç†å¼ | ã‚ã‚“ã‚Šã—ã | ronri shiki | logical expression |
+| æ¡ä»¶å¼ | ã˜ã‚‡ã†ã‘ã‚“ã—ã | jÅken shiki | conditional expression |
